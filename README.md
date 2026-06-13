@@ -26,4 +26,4 @@ A biomedical signal processing project that converts 1D ECG signals into 2D freq
 ## Course
 
 Introduction to Biomedical Signal Processing  
-Islamic Azad University, East Tehran Branch — 2025
+Islamic Azad University, East Tehran Branch — 2026
